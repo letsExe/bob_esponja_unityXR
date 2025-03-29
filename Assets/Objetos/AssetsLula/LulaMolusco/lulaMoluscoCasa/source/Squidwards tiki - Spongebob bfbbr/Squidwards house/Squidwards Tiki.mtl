@@ -1,0 +1,387 @@
+# Blender MTL File: 'None'
+# Material Count: 35
+
+newmtl Antlers
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Antler_01_D.png
+
+newmtl Big_Self_Portrait_A
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Paint_01_Picture_D.png
+
+newmtl Big_Self_Portrait_B
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Paint_01_Picture_D.png
+
+newmtl Big_Self_Portrait_Frame
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Paint_01_Picture_D.png
+
+newmtl Bust
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Bust_01_D.png
+
+newmtl Ceiling
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_BaseMesh_01_Ceiling_D.png
+
+newmtl Chair
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Chair_01_D.png
+
+newmtl Easel
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Easel_01_D.png
+
+newmtl Floor
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_BaseMesh_01_Floor_D.png
+
+newmtl Misc
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_BaseMesh_01_Misc_Dfix.png
+
+newmtl Music_Stand
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Music_Stand_01_D.png
+
+newmtl Newspaper
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\15401cb7.png
+
+newmtl Nightstand
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_NightStand_01_D.png
+
+newmtl Ottoman
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Ottoman_01_D.png
+
+newmtl Outside_Dark_Sand
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Outside_Dark_Sandstone
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Outside_Grass
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Outside_Grass_Edge
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Outside_Grass_Path
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Outside_Patches_of_Dirt
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Outside_Purple_Rock
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Outside_Purple_Stone
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Outside_Purple_Stone_2
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Outside_Road
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Outside_Road_Edge
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Outside_Sand
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Outside_Sand_Edge
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Recliner
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Recliner_01_D.png
+
+newmtl Rim
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_BaseMesh_01_Misc_Dfix.png
+
+newmtl Shelf
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Shelf_01_D.png
+
+newmtl Shelf_Items
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Shelf_01_Item_D.png
+
+newmtl Smaller_Portrait_Frames
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Paint_01_Picture_D.png
+
+newmtl Smaller_Portraits
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_Paint_01_Picture_D.png
+
+newmtl Wall
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_BaseMesh_01_Wall_D.png
+
+newmtl Window_Glass
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\carri\\OneDrive\\Desktop\\spongebob  and more stuff\\objects sbfbbr and satcs\\Squidward's Tiki (Rehydrated)\\Texture\\T_SDHouse_BaseMesh_01_Misc_Dfix.png

@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: 1601288bd5a190d40bbf7ec99e2feeb2
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 008_Patrick_Idle_v2
+      takeName: 008_Patrick_Idle_v2
+      internalID: -742836081363897346
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_LightCombo1_v3
+      takeName: 008_Patrick_LightCombo1_v3
+      internalID: 2785364217742683332
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_LightCombo2_v3
+      takeName: 008_Patrick_LightCombo2_v3
+      internalID: 5777226732192192655
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_LightCombo3_v3
+      takeName: 008_Patrick_LightCombo3_v3
+      internalID: 2217359354909468153
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_Run_v2
+      takeName: 008_Patrick_Run_v2
+      internalID: -7079632327060456965
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_Dashback_v3
+      takeName: 008_Patrick_Dashback_v3
+      internalID: 4034644051460595631
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_Super_v2EX
+      takeName: 008_Patrick_Super_v2EX
+      internalID: -5939412473358265416
+      firstFrame: 0
+      lastFrame: 82
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_Hit_v2
+      takeName: 008_Patrick_Hit_v2
+      internalID: -8778356277279806274
+      firstFrame: 0
+      lastFrame: 82
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_Victory_v2
+      takeName: 008_Patrick_Victory_v2
+      internalID: 7255313313192199070
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_BlockMiddle_v2
+      takeName: 008_Patrick_BlockMiddle_v2
+      internalID: 283800986100778482
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_BlockStart_v2
+      takeName: 008_Patrick_BlockStart_v2
+      internalID: -4957128515452404174
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_HeavyCharge_v3
+      takeName: 008_Patrick_HeavyCharge_v3
+      internalID: 1836698874570069922
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_HeavyAttack_v3
+      takeName: 008_Patrick_HeavyAttack_v3
+      internalID: -573662618493474518
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_MediumAttack_v3EX
+      takeName: 008_Patrick_MediumAttack_v3EX
+      internalID: 497388427922217719
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_Fall_v2
+      takeName: 008_Patrick_Fall_v2
+      internalID: -5221135090003879284
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 008_Patrick_GetUp_v2
+      takeName: 008_Patrick_GetUp_v2
+      internalID: 7737303987661647297
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Patrick(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick
+      parentName: Patrick(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Patrick
+      parentName: Patrick
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Patrick_0
+      parentName: Patrick_Patrick
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Root
+      parentName: Patrick
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_ForeArm
+      parentName: Patrick_Root
+      position: {x: 0.0015783057, y: 0.0038794412, z: 0.001929273}
+      rotation: {x: -0.3818984, y: 0.8538495, z: -0.3395007, w: -0.09916658}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Spine2
+      parentName: Patrick_Root
+      position: {x: -0.0001195057, y: 0.0034909893, z: 0.00011085174}
+      rotation: {x: 0.6753525, y: -0.6023489, z: 0.29938126, w: -0.30239984}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_Hand
+      parentName: Patrick_Root
+      position: {x: 0.0022886016, y: 0.0044826665, z: 0.0014871361}
+      rotation: {x: 0.6709009, y: -0.6639293, z: 0.28210458, w: 0.17177592}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_Shoulder
+      parentName: Patrick_Root
+      position: {x: 0.000007903355, y: 0.0042637074, z: 0.0008094823}
+      rotation: {x: 0.2943381, y: 0.63368034, z: -0.6226595, w: 0.3522917}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Spine1
+      parentName: Patrick_Root
+      position: {x: 0.000033118704, y: 0.0022544896, z: 0.00008569345}
+      rotation: {x: 0.65470177, y: -0.6274696, z: 0.27959523, w: -0.31539503}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_Arm
+      parentName: Patrick_Root
+      position: {x: 0.00052635436, y: 0.004322571, z: 0.0015381007}
+      rotation: {x: 0.23690541, y: 0.9044749, z: -0.34325802, w: 0.08930237}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_ForeArmTwist1
+      parentName: Patrick_Root
+      position: {x: 0.002077324, y: 0.0043032374, z: 0.0016186496}
+      rotation: {x: -0.38330215, y: 0.84881437, z: -0.3519002, w: -0.093594074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_ArmTwist1
+      parentName: Patrick_Root
+      position: {x: 0.0009188054, y: 0.0041572526, z: 0.0016840352}
+      rotation: {x: 0.25317743, y: 0.7239188, z: -0.6417496, w: -0.0005319059}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_Shoulder
+      parentName: Patrick_Root
+      position: {x: -0.0008632065, y: 0.00413775, z: -0.0002497329}
+      rotation: {x: -0.41397807, y: 0.57006717, z: 0.5167007, w: 0.4864833}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_Arm
+      parentName: Patrick_Root
+      position: {x: -0.0010280255, y: 0.004165295, z: -0.0011301958}
+      rotation: {x: 0.82733434, y: -0.41602418, z: -0.33127242, w: -0.1808324}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_ForeArm
+      parentName: Patrick_Root
+      position: {x: -0.00050390355, y: 0.003479233, z: -0.0019731636}
+      rotation: {x: 0.8972879, y: 0.28112727, z: -0.14129636, w: -0.30964047}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_Hand
+      parentName: Patrick_Root
+      position: {x: 0.00032332513, y: 0.0040898575, z: -0.002055133}
+      rotation: {x: 0.7698132, y: 0.5878245, z: -0.009982821, w: -0.24849617}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_ForeArmTwist1
+      parentName: Patrick_Root
+      position: {x: 0.000021281781, y: 0.0038669026, z: -0.0020252038}
+      rotation: {x: 0.90975404, y: 0.28693414, z: -0.12909682, w: -0.2708328}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_ArmTwist1
+      parentName: Patrick_Root
+      position: {x: -0.00083249196, y: 0.0039093466, z: -0.001444681}
+      rotation: {x: -0.6751581, y: 0.51661694, z: 0.1261923, w: 0.51121813}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Head
+      parentName: Patrick_Root
+      position: {x: -0.00023431146, y: 0.0046918406, z: 0.00006246892}
+      rotation: {x: -0.49663395, y: 0.61712664, z: -0.4862256, w: 0.36890933}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Skull01
+      parentName: Patrick_Root
+      position: {x: 0.00017656622, y: 0.006394276, z: 0.000014070825}
+      rotation: {x: -0.41574854, y: 0.6706864, z: -0.533466, w: 0.30454403}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Skull02
+      parentName: Patrick_Root
+      position: {x: 0.00082041963, y: 0.007606416, z: -0.000034090954}
+      rotation: {x: -0.25803372, y: 0.7190566, z: -0.5711316, w: 0.30030814}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_Eyebrow
+      parentName: Patrick_Root
+      position: {x: 0.0009951453, y: 0.0064688474, z: 0.00019041332}
+      rotation: {x: -0.13276617, y: 0.59210515, z: -0.20387557, w: 0.7682574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_Eyebrow
+      parentName: Patrick_Root
+      position: {x: 0.00084264734, y: 0.0064456784, z: -0.0004258101}
+      rotation: {x: -0.45814976, y: -0.09429948, z: 0.8604476, w: 0.20208016}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_Lip
+      parentName: Patrick_Root
+      position: {x: 0.00023844326, y: 0.005150289, z: -0.0009991475}
+      rotation: {x: -0.607043, y: 0.07588202, z: 0.78454334, w: 0.10115558}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Jaw
+      parentName: Patrick_Root
+      position: {x: -0.00016064958, y: 0.0051645874, z: 0.00007653815}
+      rotation: {x: 0.3491329, y: 0.9284577, z: -0.011609556, w: -0.12624496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_LowerLip02
+      parentName: Patrick_Root
+      position: {x: 0.000367622, y: 0.0050680344, z: -0.00096726656}
+      rotation: {x: -0.607043, y: 0.07588202, z: 0.78454334, w: 0.10115558}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_LowerLip01
+      parentName: Patrick_Root
+      position: {x: 0.00074502215, y: 0.0047936104, z: -0.0007345361}
+      rotation: {x: -0.607043, y: 0.07588202, z: 0.78454334, w: 0.10115558}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_C_LowerLip
+      parentName: Patrick_Root
+      position: {x: 0.0010539695, y: 0.0046558464, z: -0.00026573305}
+      rotation: {x: 0.10115558, y: 0.78454334, z: -0.075882025, w: 0.607043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_LowerLip01
+      parentName: Patrick_Root
+      position: {x: 0.0010615282, y: 0.0046423604, z: 0.00021615524}
+      rotation: {x: 0.10115558, y: 0.78454334, z: -0.075882025, w: 0.607043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_LowerLip02
+      parentName: Patrick_Root
+      position: {x: 0.00085315295, y: 0.0048004454, z: 0.0006239558}
+      rotation: {x: 0.10115558, y: 0.78454334, z: -0.075882025, w: 0.607043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_Lip
+      parentName: Patrick_Root
+      position: {x: 0.00075679435, y: 0.0048736883, z: 0.0007230526}
+      rotation: {x: 0.10115558, y: 0.78454334, z: -0.075882025, w: 0.607043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Tongue01
+      parentName: Patrick_Root
+      position: {x: 0.00004269835, y: 0.0047113104, z: -0.000005606692}
+      rotation: {x: -0.039838545, y: 0.9911308, z: 0.038451046, w: -0.12080588}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Tongue02
+      parentName: Patrick_Root
+      position: {x: 0.00034525967, y: 0.004738908, z: -0.000079526}
+      rotation: {x: 0.22989292, y: 0.9649232, z: 0.0043204734, w: -0.12670395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_LowerTeeth
+      parentName: Patrick_Root
+      position: {x: 0.00058928924, y: 0.004421896, z: -0.00016248928}
+      rotation: {x: 0.10115558, y: 0.78454334, z: -0.075882025, w: 0.607043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_UpperLip02
+      parentName: Patrick_Root
+      position: {x: 0.00031838438, y: 0.00516589, z: -0.0008777971}
+      rotation: {x: -0.607043, y: 0.07588202, z: 0.78454334, w: 0.10115558}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_UpperLip01
+      parentName: Patrick_Root
+      position: {x: 0.000676793, y: 0.004942645, z: -0.0006232718}
+      rotation: {x: -0.607043, y: 0.07588202, z: 0.78454334, w: 0.10115558}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_C_UpperLip
+      parentName: Patrick_Root
+      position: {x: 0.00093172316, y: 0.004823894, z: -0.00022353684}
+      rotation: {x: 0.10115558, y: 0.78454334, z: -0.075882025, w: 0.607043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_UpperLip01
+      parentName: Patrick_Root
+      position: {x: 0.0009539066, y: 0.0048022075, z: 0.00017020928}
+      rotation: {x: 0.10115558, y: 0.78454334, z: -0.075882025, w: 0.607043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_UpperLip02
+      parentName: Patrick_Root
+      position: {x: 0.0007708646, y: 0.004907378, z: 0.00058153574}
+      rotation: {x: 0.10115558, y: 0.78454334, z: -0.075882025, w: 0.607043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_Eye
+      parentName: Patrick_Root
+      position: {x: 0.0012335858, y: 0.005604919, z: 0.00015756903}
+      rotation: {x: 0.10115558, y: 0.78454334, z: -0.075882025, w: 0.607043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_Eye
+      parentName: Patrick_Root
+      position: {x: 0.0010820747, y: 0.0056121484, z: -0.00047209847}
+      rotation: {x: 0.10115558, y: 0.78454334, z: -0.075882025, w: 0.607043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_Cheek
+      parentName: Patrick_Root
+      position: {x: 0.00007012118, y: 0.005389627, z: -0.0010142033}
+      rotation: {x: -0.607043, y: 0.07588202, z: 0.78454334, w: 0.10115558}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_Cheek
+      parentName: Patrick_Root
+      position: {x: 0.0005676164, y: 0.0050868457, z: 0.00094089675}
+      rotation: {x: 0.10115558, y: 0.78454334, z: -0.075882025, w: 0.607043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_UpperTeeth
+      parentName: Patrick_Root
+      position: {x: 0.0006721959, y: 0.0047418303, z: -0.00016125116}
+      rotation: {x: 0.10115558, y: 0.78454334, z: -0.075882025, w: 0.607043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_F_Belly
+      parentName: Patrick_Root
+      position: {x: 0.0011035898, y: 0.0028110638, z: -0.0008284788}
+      rotation: {x: -0.06556261, y: 0.89830244, z: 0.12520117, w: 0.4160277}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_Belly
+      parentName: Patrick_Root
+      position: {x: 0.00097527844, y: 0.0027811294, z: 0.0013238678}
+      rotation: {x: -0.06556261, y: 0.89830244, z: 0.12520117, w: 0.4160277}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Back
+      parentName: Patrick_Root
+      position: {x: -0.00086079363, y: 0.0025591608, z: 0.0009978659}
+      rotation: {x: -0.06556261, y: 0.89830244, z: 0.12520117, w: 0.4160277}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_Belly
+      parentName: Patrick_Root
+      position: {x: -0.0010390218, y: 0.002738626, z: -0.0010607012}
+      rotation: {x: -0.41602767, y: -0.12520118, z: 0.8983024, w: -0.06556262}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Hip
+      parentName: Patrick_Root
+      position: {x: 0.00013722303, y: 0.0018201938, z: 0.00012352267}
+      rotation: {x: -0.002550703, y: 0.9093025, z: 0.06598178, w: 0.41086364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_UpLeg
+      parentName: Patrick_Root
+      position: {x: 0.0009347134, y: 0.00097556243, z: 0.0006897407}
+      rotation: {x: 0.51784694, y: 0.74160486, z: -0.42615384, w: -0.015805699}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_Leg
+      parentName: Patrick_Root
+      position: {x: 0.0011948689, y: 0.00053656666, z: 0.0009244932}
+      rotation: {x: 0.58604187, y: 0.6889834, z: -0.4257249, w: 0.024802625}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_Foot
+      parentName: Patrick_Root
+      position: {x: 0.0013411404, y: 0.00016773194, z: 0.0011745463}
+      rotation: {x: 0.70719564, y: 0.70701796, z: -0.000000036904005, w: 0.000000036894736}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_legBend
+      parentName: Patrick_Root
+      position: {x: 0.0012680046, y: 0.0003521493, z: 0.0010495196}
+      rotation: {x: 0.586085, y: 0.6889466, z: -0.42572343, w: 0.024829226}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_Trousers
+      parentName: Patrick_Root
+      position: {x: 0.0002504695, y: 0.0011454967, z: -0.000033579767}
+      rotation: {x: -0.002550703, y: 0.9093025, z: 0.06598178, w: 0.41086364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_Waistband
+      parentName: Patrick_Root
+      position: {x: 0.0013749264, y: 0.0020002215, z: 0.001586223}
+      rotation: {x: -0.002550703, y: 0.9093025, z: 0.06598178, w: 0.41086364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_F_Waistband
+      parentName: Patrick_Root
+      position: {x: 0.0014776683, y: 0.0019399467, z: -0.001068273}
+      rotation: {x: -0.002550703, y: 0.9093025, z: 0.06598178, w: 0.41086364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_Waistband
+      parentName: Patrick_Root
+      position: {x: -0.0012246305, y: 0.0021025282, z: -0.0013648149}
+      rotation: {x: -0.4108636, y: -0.06598183, z: 0.9093025, w: -0.0025507205}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_B_Waistband
+      parentName: Patrick_Root
+      position: {x: -0.0010587658, y: 0.0020012518, z: 0.0011939903}
+      rotation: {x: -0.002550703, y: 0.9093025, z: 0.06598178, w: 0.41086364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_TrouserLeg01
+      parentName: Patrick_Root
+      position: {x: 0.0009347134, y: 0.00097556243, z: 0.0006897407}
+      rotation: {x: 0.5178469, y: 0.7416049, z: -0.4261538, w: -0.015805809}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_L_TrouserLeg02
+      parentName: Patrick_Root
+      position: {x: 0.0011948559, y: 0.000536601, z: 0.0009244694}
+      rotation: {x: 0.58604187, y: 0.6889834, z: -0.4257249, w: 0.024802625}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_TrouserLeg01
+      parentName: Patrick_Root
+      position: {x: -0.0004445522, y: 0.0010788081, z: -0.0008668672}
+      rotation: {x: -0.46899307, y: 0.74363357, z: 0.47407857, w: -0.04800147}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_TrouserLeg02
+      parentName: Patrick_Root
+      position: {x: -0.0007615811, y: 0.00065474026, z: -0.0010799129}
+      rotation: {x: -0.41690642, y: 0.7740377, z: 0.46967214, w: -0.08039119}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_UpLeg
+      parentName: Patrick_Root
+      position: {x: -0.0004445522, y: 0.0010788081, z: -0.0008668672}
+      rotation: {x: -0.46899307, y: 0.74363357, z: 0.47407857, w: -0.04800147}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_Leg
+      parentName: Patrick_Root
+      position: {x: -0.00076156604, y: 0.00065476034, z: -0.0010799028}
+      rotation: {x: -0.41690642, y: 0.7740377, z: 0.46967214, w: -0.08039119}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_Foot
+      parentName: Patrick_Root
+      position: {x: -0.001070166, y: 0.00030684558, z: -0.0012088377}
+      rotation: {x: -0.48735344, y: 0.8732048, z: -8.3310164e-17, w: -2.3626583e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Patrick_R_legBend
+      parentName: Patrick_Root
+      position: {x: -0.00091586605, y: 0.000480803, z: -0.0011443702}
+      rotation: {x: 0.77408993, y: 0.4168095, z: -0.08044991, w: -0.469662}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

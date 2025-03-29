@@ -1,0 +1,1023 @@
+fileFormatVersion: 2
+guid: 2b5cee1fd1aec1443af91259eed23e4f
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 1
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Spongebob End of the month long animation project_ Final(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SpongebobDefault:Mesh
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 45.967964, y: 45.967964, z: 45.967964}
+    - name: jellyfishfields2:mesh0038
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: -0.2973075, y: 0.2777419, z: 1.332767}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface3
+      parentName: jellyfishfields2:mesh0038
+      position: {x: 0.39229932, y: -0.13248841, z: -1.2202176}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform5
+      parentName: polySurface3
+      position: {x: 0.38277352, y: -0.089605995, z: -1.8322294}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform1
+      parentName: jellyfishfields2:mesh0038
+      position: {x: 0.2973075, y: -0.061086494, z: -1.332767}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jellyfishfields2:mesh01182
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: 0.09716187, y: 0.065926, z: 0.085630946}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform2
+      parentName: jellyfishfields2:mesh01182
+      position: {x: 0.38060346, y: -0.0102785, z: -1.805311}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jellyfishfields2:mesh0121
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: 0.09803036, y: 0.084381, z: 0.092662506}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform3
+      parentName: jellyfishfields2:mesh0121
+      position: {x: 0.379735, y: -0.028733497, z: -1.8123425}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jellyfishfields2:mesh01682
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: 0.095763855, y: 0.086096495, z: 0.11032699}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform4
+      parentName: jellyfishfields2:mesh01682
+      position: {x: 0.3820015, y: -0.030449, z: -1.830007}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Leg_ikHandle1
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: -0.007507352, y: 0.001641064, z: 0.001789551}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Leg_ikHandle1
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: 0.0069321594, y: 0.0012502624, z: 0.0018014889}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_footnurbsCircle1
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: -0.0076238853, y: -0.0008090414, z: 0.0036598842}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.46218327, y: 0.46218327, z: 0.86468565}
+    - name: Right_footnurbsCircle2
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: 0.006908586, y: -0.0013409808, z: 0.0034249164}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.46218327, y: 0.46218327, z: 0.86468565}
+    - name: ikHandle2
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: 0.017370814, y: 0.024877604, z: 0.011532571}
+      rotation: {x: 0, y: 0, z: -0.78184265, w: 0.6234758}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle3
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: -0.023315405, y: 0.024084147, z: 0.005056298}
+      rotation: {x: 0.14530109, y: -0, z: -0, w: 0.9893875}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Butterfly_Net:ButterflyNet1
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Butterfly_Net:transform1
+      parentName: Butterfly_Net:ButterflyNet1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Butterfly_Net:ButterflyNet2
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Butterfly_Net:transform2
+      parentName: Butterfly_Net:ButterflyNet2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle1
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: -0, y: 0.021740867, z: 0}
+      rotation: {x: -0.013323063, y: 0, z: -0, w: 0.99991125}
+      scale: {x: 1.878969, y: 1.878969, z: 1.878969}
+    - name: transform6
+      parentName: nurbsCircle1
+      position: {x: -0, y: -0.01168237, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.5322068, y: 0.5322068, z: 0.5322068}
+    - name: Hip_J
+      parentName: transform6
+      position: {x: 0.0008584681, y: 0.013335925, z: -0.002602709}
+      rotation: {x: -0.27511933, y: -0.4141577, z: 0.45705816, w: 0.73748267}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Leg_Top
+      parentName: Hip_J
+      position: {x: -0.0069942987, y: -0.0017694976, z: 0.001995756}
+      rotation: {x: 0.8845, y: -0.4661449, z: -0.016195145, w: 0.010308837}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Knee
+      parentName: L_Leg_Top
+      position: {x: -1.7022562e-18, y: 0.0062105893, z: 0.00023627868}
+      rotation: {x: -0.0016933272, y: -0.000001372559, z: 0.00003454074, w: 0.9999986}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000001}
+    - name: Left_foot
+      parentName: L_Knee
+      position: {x: 0.00000039353674, y: 0.005688216, z: 0.00023573206}
+      rotation: {x: -0.46232533, y: 0.5172396, z: -0.7128082, w: -0.10306844}
+      scale: {x: 0.99999994, y: 1, z: 1.0000004}
+    - name: Left_Toe
+      parentName: Left_foot
+      position: {x: -0.002887302, y: 1.9428903e-18, z: -3.3693271e-19}
+      rotation: {x: -0.0000000037252899, y: -0.00000011804512, z: -0.27774113, w: 0.960656}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: Left_ToeTip
+      parentName: Left_Toe
+      position: {x: -0.0054839915, y: 0.000006842722, z: -1.1661679e-18}
+      rotation: {x: -0.0023107694, y: -0.707103, z: -0.0023107694, w: 0.707103}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Leg_Top
+      parentName: Hip_J
+      position: {x: 0.0069942996, y: -0.0017694545, z: 0.0018265798}
+      rotation: {x: 0.8965878, y: -0.44180575, z: -0.002237992, w: -0.030546412}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Knee
+      parentName: R_Leg_Top
+      position: {x: 7.386579e-20, y: 0.006207385, z: 0.000117906515}
+      rotation: {x: 0.0014070095, y: 0.0000030526214, z: -0.00017361603, w: 0.99999905}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: Reft_foot
+      parentName: R_Knee
+      position: {x: -0.0000025841764, y: 0.0055508963, z: 0.0001524568}
+      rotation: {x: 0.48271862, y: 0.43732178, z: -0.07857039, w: 0.7546914}
+      scale: {x: 0.9999998, y: 1, z: 0.99999994}
+    - name: Reft_Toe
+      parentName: Reft_foot
+      position: {x: 0.002887297, y: 0.0000000036581156, z: 1.110223e-18}
+      rotation: {x: 0.000000029802319, y: 0.000000029802319, z: -0.27774113, w: 0.9606559}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000004}
+    - name: Reft_ToeTip
+      parentName: Reft_Toe
+      position: {x: 0.0054839924, y: -0.0000068424683, z: 2.220446e-18}
+      rotation: {x: -0.0023107694, y: -0.707103, z: -0.0023107694, w: 0.707103}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Spine01
+      parentName: Hip_J
+      position: {x: -0, y: 0.009846416, z: 0.000001896391}
+      rotation: {x: 0.44315076, y: -0.55101496, z: -0.44315076, w: 0.5510149}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: L_Head
+      parentName: L_Spine01
+      position: {x: -0.007759615, y: -0.0005621006, z: 1.2198012e-18}
+      rotation: {x: -0.4794794, y: 0.5197111, z: 0.4794794, w: 0.519711}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.99999976}
+    - name: Left_Spine03
+      parentName: L_Head
+      position: {x: -1.3405801e-17, y: 0.010062394, z: 1.1379313e-18}
+      rotation: {x: 0.04459512, y: -0, z: -0, w: 0.99900514}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: L_HeadTop
+      parentName: Left_Spine03
+      position: {x: -1.8060906e-17, y: 0.015021983, z: 1.3322676e-17}
+      rotation: {x: 0.03576381, y: -0, z: -0, w: 0.99936026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Clavicle_J
+      parentName: L_Spine01
+      position: {x: 0.00067426456, y: 0.00819243, z: 0.0069714147}
+      rotation: {x: -0.4362011, y: 0.55653274, z: 0.4362011, w: 0.5565327}
+      scale: {x: 0.9999999, y: 0.99999964, z: 0.99999964}
+    - name: Left_Shoulder_J
+      parentName: L_Clavicle_J
+      position: {x: -0.009242374, y: 0.0015308049, z: -0.006901322}
+      rotation: {x: -0.000024855133, y: 0.013384966, z: 0.010156854, w: 0.9998589}
+      scale: {x: 0.99999976, y: 1.0000004, z: 1.0000001}
+    - name: Left_Elbow_J
+      parentName: Left_Shoulder_J
+      position: {x: -0.008078928, y: -4.8658992e-17, z: 0}
+      rotation: {x: 0.00000001039734, y: -0.000000069849165, z: 0.0004567262, w: 0.9999999}
+      scale: {x: 1.0000002, y: 0.99999976, z: 1.0000001}
+    - name: L_Wrist_J
+      parentName: Left_Elbow_J
+      position: {x: -0.004177581, y: -2.5854318e-16, z: 0}
+      rotation: {x: 0.000009010663, y: 0.0013737666, z: -0.006607496, w: 0.9999773}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.9999998}
+    - name: Left_Middle01_J
+      parentName: L_Wrist_J
+      position: {x: -0.0033750187, y: 0.0003370953, z: 0.00000047229116}
+      rotation: {x: 0.0003587375, y: 0.0044253347, z: 0.08077571, w: 0.9967224}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Left_Middle01_J
+      parentName: Left_Middle01_J
+      position: {x: -0.0011035552, y: 0.00010441085, z: 3.3237436e-18}
+      rotation: {x: -0.001186047, y: -0.01796627, z: 0.065858975, w: 0.99766654}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000006}
+    - name: joint6
+      parentName: Left_Middle01_J
+      position: {x: -0.0010687154, y: 4.440892e-18, z: 6.418477e-19}
+      rotation: {x: -0.0000000018626443, y: 0.028849304, z: 0.00000003672083, w: 0.9995838}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: joint7
+      parentName: joint6
+      position: {x: -0.0011732829, y: 1.3322676e-17, z: 1.6479873e-19}
+      rotation: {x: 0, y: -0.016659727, z: -0, w: 0.99986124}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Pinky01_J
+      parentName: L_Wrist_J
+      position: {x: -0.002866163, y: 0.0003370953, z: -0.0012678276}
+      rotation: {x: 0.010553752, y: -0.12144572, z: 0.080084085, w: 0.9893059}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: Left_Pinky02_J
+      parentName: Left_Pinky01_J
+      position: {x: -0.0011035552, y: 0.00010441085, z: 3.3237436e-18}
+      rotation: {x: -0.0011860183, y: -0.017966362, z: 0.065859, w: 0.9976665}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: joint6
+      parentName: Left_Pinky02_J
+      position: {x: -0.0010687154, y: 4.440892e-18, z: 6.418477e-19}
+      rotation: {x: 0.00000002933665, y: 0.028849231, z: 0.000000036218793, w: 0.9995838}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: joint7
+      parentName: joint6
+      position: {x: -0.0011732829, y: 1.3322676e-17, z: 1.6479873e-19}
+      rotation: {x: 0, y: -0.016659727, z: -0, w: 0.99986124}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_index01_J
+      parentName: L_Wrist_J
+      position: {x: -0.003102881, y: 0.00017911565, z: 0.0010036475}
+      rotation: {x: -0.0103303185, y: 0.13624355, z: 0.080113284, w: 0.98737675}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: Left_index02_J
+      parentName: Left_index01_J
+      position: {x: -0.0011035552, y: 0.00010441085, z: 3.3237436e-18}
+      rotation: {x: -0.0011860277, y: -0.017966451, z: 0.06585893, w: 0.99766654}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+    - name: joint6
+      parentName: Left_index02_J
+      position: {x: -0.0010687154, y: 4.440892e-18, z: 6.418477e-19}
+      rotation: {x: 0.000000011059453, y: 0.028849289, z: -0.000000030779113, w: 0.99958384}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999994}
+    - name: joint7
+      parentName: joint6
+      position: {x: -0.0011732829, y: 1.3322676e-17, z: 1.6479873e-19}
+      rotation: {x: 0, y: -0.016659727, z: -0, w: 0.99986124}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Thumb01_J
+      parentName: L_Wrist_J
+      position: {x: -0.0016186844, y: -0.00041569563, z: 0.001561504}
+      rotation: {x: -0.03682857, y: 0.46230224, z: 0.07189229, w: 0.8830356}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1.0000001}
+    - name: Left_Thumb02_J
+      parentName: Left_Thumb01_J
+      position: {x: -0.0011035552, y: 0.00010441085, z: 3.3237436e-18}
+      rotation: {x: -0.0011861061, y: -0.017966416, z: 0.06585892, w: 0.9976665}
+      scale: {x: 0.9999999, y: 1, z: 0.99999964}
+    - name: joint6
+      parentName: Left_Thumb02_J
+      position: {x: -0.0009737274, y: -0.00018465186, z: 0.00015973626}
+      rotation: {x: 0.000000008265485, y: 0.33014828, z: -2.910382e-11, w: 0.9439291}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000004}
+    - name: joint7
+      parentName: joint6
+      position: {x: -0.00092347525, y: -0.00008602001, z: 0.00024347841}
+      rotation: {x: 0.00000004046758, y: -0.016659759, z: 0.000000091288875, w: 0.99986124}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000002}
+    - name: R_Clavicle_J
+      parentName: L_Spine01
+      position: {x: 0.00067424384, y: 0.008192435, z: -0.0069714095}
+      rotation: {x: 0.5565327, y: 0.4362011, z: -0.55653274, w: 0.4362011}
+      scale: {x: 0.9999999, y: 0.99999964, z: 0.99999976}
+    - name: Reft_Shoulder_J
+      parentName: R_Clavicle_J
+      position: {x: 0.009242389, y: -0.001534163, z: 0.006768279}
+      rotation: {x: -0.016757693, y: 0.7069896, z: -0.707022, w: -0.0021713967}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000006}
+    - name: Reft_Elbow_J
+      parentName: Reft_Shoulder_J
+      position: {x: -0.008078923, y: 8.256599e-19, z: 8.6346887e-19}
+      rotation: {x: 0.0000078976145, y: -0.7071067, z: 0.7071069, w: 0.000007857568}
+      scale: {x: 0.9999998, y: 1.0000006, z: 1.0000005}
+    - name: R_Wrist_J
+      parentName: Reft_Elbow_J
+      position: {x: 0.004447426, y: -0.00030219855, z: -0.00023338027}
+      rotation: {x: 0.000009044414, y: 0.0013737461, z: -0.0066074906, w: 0.99997723}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000001}
+    - name: Reft_Middle01_J
+      parentName: R_Wrist_J
+      position: {x: 0.003375014, y: -0.00033709998, z: -0.0000004771612}
+      rotation: {x: 0.03402285, y: -0.43904096, z: 0.2903426, w: 0.8495802}
+      scale: {x: 1.0000001, y: 0.99999946, z: 0.99999994}
+    - name: Reft_Middle01_J
+      parentName: Reft_Middle01_J
+      position: {x: 0.0007750679, y: -0.000016884378, z: -0.000022888453}
+      rotation: {x: 0.0025887534, y: -0.07305071, z: 0.058179136, w: 0.99562657}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000001}
+    - name: joint6
+      parentName: Reft_Middle01_J
+      position: {x: 0.001068713, y: -0.000000039893116, z: 0.000000003977574}
+      rotation: {x: -0.00006109728, y: 0.0016024027, z: -0.0021866185, w: 0.99999636}
+      scale: {x: 1, y: 1.0000002, z: 1.0000005}
+    - name: joint7
+      parentName: joint6
+      position: {x: 0.0011733037, y: 0.00000008386308, z: 0.0000000016425633}
+      rotation: {x: 0, y: -0.016659727, z: -0, w: 0.99986124}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Reft_Pinky01_J
+      parentName: R_Wrist_J
+      position: {x: 0.0028661275, y: -0.00033709998, z: 0.0012678225}
+      rotation: {x: 0.013577279, y: -0.11113875, z: 0.056731157, w: 0.9920915}
+      scale: {x: 1.0000002, y: 0.9999996, z: 1}
+    - name: Reft_Pinky02_J
+      parentName: Reft_Pinky01_J
+      position: {x: 0.0011035526, y: -0.000104498715, z: 9.48676e-10}
+      rotation: {x: -0.0011860299, y: -0.017966202, z: 0.06585901, w: 0.99766654}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: joint6
+      parentName: Reft_Pinky02_J
+      position: {x: 0.0010687964, y: 0.000000010940219, z: -0.000000022082446}
+      rotation: {x: 0.00000013143286, y: 0.02884907, z: -9.003994e-10, w: 0.99958384}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000005}
+    - name: joint7
+      parentName: joint6
+      position: {x: 0.0011732875, y: 0.000000013311807, z: -8.5167684e-10}
+      rotation: {x: 0, y: -0.016659727, z: -0, w: 0.99986124}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Reft_index01_J
+      parentName: R_Wrist_J
+      position: {x: 0.003102869, y: -0.0001792, z: -0.0010036486}
+      rotation: {x: -0.010330359, y: 0.13624354, z: 0.08011329, w: 0.9873768}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Reft_index02_J
+      parentName: Reft_index01_J
+      position: {x: 0.0011035585, y: -0.00010434259, z: 9.913209e-10}
+      rotation: {x: -0.0011860614, y: -0.017966297, z: 0.06585898, w: 0.99766654}
+      scale: {x: 1.0000005, y: 0.99999994, z: 1.0000001}
+    - name: joint6
+      parentName: Reft_index02_J
+      position: {x: 0.0010687707, y: 0.0000000015792296, z: 0.000000007555158}
+      rotation: {x: -0.000000020139849, y: 0.028849153, z: -0.0000000378468, w: 0.99958384}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: joint7
+      parentName: joint6
+      position: {x: 0.0011732437, y: -0.00000006079285, z: -0.0000000037333474}
+      rotation: {x: 0, y: -0.016659727, z: -0, w: 0.99986124}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Reft_Thumb01_J
+      parentName: R_Wrist_J
+      position: {x: 0.001678929, y: 0.00030105878, z: -0.0015679689}
+      rotation: {x: -0.099474646, y: 0.6855929, z: -0.08458018, w: 0.7161798}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: Reft_Thumb02_J
+      parentName: Reft_Thumb01_J
+      position: {x: 0.0011035837, y: -0.00010440676, z: 0.000000036964416}
+      rotation: {x: -0.0525535, y: 0.047373842, z: -0.16936411, w: 0.98301053}
+      scale: {x: 0.9999996, y: 0.99999946, z: 0.99999994}
+    - name: joint6
+      parentName: Reft_Thumb02_J
+      position: {x: 0.00097372447, y: 0.00018469166, z: -0.0001597419}
+      rotation: {x: 0.042975616, y: -0.009795612, z: 0.009071199, w: 0.9989869}
+      scale: {x: 1, y: 0.99999994, z: 1.0000004}
+    - name: joint7
+      parentName: joint6
+      position: {x: 0.0009234738, y: 0.00008599305, z: -0.00024351347}
+      rotation: {x: -0.000000011403162, y: -0.016659701, z: -0.000000007674875, w: 0.99986124}
+      scale: {x: 1.0000006, y: 1.0000002, z: 0.99999994}
+    - name: Basketball:polySurface1
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: 0.01751074, y: 0.014166323, z: 0.01579928}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.29357806, y: 0.29357806, z: 0.29357806}
+    - name: Basketball_Court:Mesh
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: -0, y: 0, z: 0.09939491}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -6.123234e-17}
+      scale: {x: 6.0442696, y: 6.0442696, z: 6.0442696}
+    - name: polySurface4
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform48
+      parentName: polySurface4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface5
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform47
+      parentName: polySurface5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface6
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform20
+      parentName: polySurface6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface7
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform19
+      parentName: polySurface7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface8
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform18
+      parentName: polySurface8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface9
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform17
+      parentName: polySurface9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface11
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform49
+      parentName: polySurface11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface12
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform50
+      parentName: polySurface12
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface13
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform12
+      parentName: polySurface13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface14
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform11
+      parentName: polySurface14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface15
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform16
+      parentName: polySurface15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface16
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform14
+      parentName: polySurface16
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface17
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform15
+      parentName: polySurface17
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface18
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform13
+      parentName: polySurface18
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface19
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform10
+      parentName: polySurface19
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface20
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform9
+      parentName: polySurface20
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface21
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform8
+      parentName: polySurface21
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface22
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform21
+      parentName: polySurface22
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface23
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform22
+      parentName: polySurface23
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface24
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform23
+      parentName: polySurface24
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface25
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform24
+      parentName: polySurface25
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface26
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform25
+      parentName: polySurface26
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface27
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform26
+      parentName: polySurface27
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface28
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform27
+      parentName: polySurface28
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface29
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform28
+      parentName: polySurface29
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface30
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform29
+      parentName: polySurface30
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface31
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform30
+      parentName: polySurface31
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface32
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform31
+      parentName: polySurface32
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface33
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform32
+      parentName: polySurface33
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface34
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform33
+      parentName: polySurface34
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface35
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform34
+      parentName: polySurface35
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface36
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform35
+      parentName: polySurface36
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface37
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform36
+      parentName: polySurface37
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface38
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform37
+      parentName: polySurface38
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface39
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform38
+      parentName: polySurface39
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface40
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform39
+      parentName: polySurface40
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface41
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform40
+      parentName: polySurface41
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface42
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform41
+      parentName: polySurface42
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface43
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform42
+      parentName: polySurface43
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface45
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform43
+      parentName: polySurface45
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface46
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform44
+      parentName: polySurface46
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface47
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform45
+      parentName: polySurface47
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface48
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform46
+      parentName: polySurface48
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform7
+      parentName: Basketball_Court:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface12
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: -0, y: 0.0697282, z: 0.08900149}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pasted__pCube1
+      parentName: group
+      position: {x: -0, y: -0.004090266, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 23.111866, y: 0.26860192, z: 19.970675}
+    - name: group1
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: -0.7578039, y: 0.0126785, z: 1.759515}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jellyfishfields3:mesh0060
+      parentName: group1
+      position: {x: 0.62550104, y: 0, z: -1.8262053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.042783003, z: 1}
+    - name: polySurface51
+      parentName: jellyfishfields3:mesh0060
+      position: {x: 0.08896099, y: -0.26580513, z: -0.038097028}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 4.0710363, y: 4.0710363, z: 4.0710363}
+    - name: transform51
+      parentName: jellyfishfields3:mesh0060
+      position: {x: 0.7578039, y: -0.0126785, z: -1.759515}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: krustykrab01:krusty
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: -0.03018053, y: 0, z: -0.23351142}
+      rotation: {x: 6.068703e-17, y: 0.9999607, z: -6.068703e-17, w: -0.008866298}
+      scale: {x: 0.7492761, y: 0.7492761, z: 0.7492761}
+    - name: krustykrab_sign02:krustycrab_sign
+      parentName: Spongebob End of the month long animation project_ Final(Clone)
+      position: {x: 0.23972294, y: 0, z: -0.28031355}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: 6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
